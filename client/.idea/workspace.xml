@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b42dd7a-b346-47a8-b1c1-02925de6a61c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(main)/(routes)/comparisons/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(main)/(routes)/comparisons/[id]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(main)/(routes)/owners/[id]/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(main)/_components/heroes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(main)/_components/heroes.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(main)/_components/item.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(main)/_components/item.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(main)/_components/logo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(main)/_components/logo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(main)/_components/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(main)/_components/navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(main)/_components/navigation.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(main)/_components/navigation.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(main)/_components/user-item.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(main)/_components/user-item.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(main)/home/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(main)/home/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(main)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(main)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(marketing)/_components/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(marketing)/_components/footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(marketing)/_components/heading.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(marketing)/_components/heading.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(marketing)/_components/heroes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(marketing)/_components/heroes.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(marketing)/_components/logo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(marketing)/_components/logo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(marketing)/_components/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(marketing)/_components/navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(marketing)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(marketing)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(marketing)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(marketing)/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(public)/(routes)/preview/[documentId]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(public)/(routes)/preview/[documentId]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(public)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(public)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/error.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/error.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/login/_components/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/login/_components/footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/login/_components/login-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/login/_components/login-form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/login/_components/logo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/login/_components/logo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/login/_components/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/login/_components/navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/login/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/login/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/login/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/login/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components.json" beforeDir="false" afterPath="$PROJECT_DIR$/components.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/auth.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/cover.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/cover.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/editor.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/editor.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/icon-picker.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/icon-picker.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/modals/confirm-modal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/modals/confirm-modal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/modals/settings-modal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/modals/settings-modal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/mode-toggle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/mode-toggle.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/providers/modal-provider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/providers/modal-provider.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/providers/theme-provider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/providers/theme-provider.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/spinner.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/spinner.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/toolbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/toolbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/alert-dialog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/alert-dialog.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/avatar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/avatar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/button.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/command.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/command.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/dialog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/dialog.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/dropdown-menu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/dropdown-menu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/input.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/input.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/label.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/label.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/popover.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/popover.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/search-command.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/search-command.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/skeleton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/skeleton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/lib/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/use-cover-image.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/use-cover-image.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/use-origin.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/use-origin.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/use-scroll-top.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/use-scroll-top.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/use-search.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/use-search.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/use-settings.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/use-settings.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/use-user.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/use-user.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware.ts" beforeDir="false" afterPath="$PROJECT_DIR$/middleware.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/prisma/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/../server/prisma/schema.prisma" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/app.controller.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/app.controller.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/app.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/app.controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/app.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/app.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/auth/github/github-oauth.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/auth/github/github-oauth.controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/auth/github/github-oauth.guard.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/auth/github/github-oauth.guard.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/auth/github/github-oauth.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/auth/github/github-oauth.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/auth/github/github-oauth.strategy.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/auth/github/github-oauth.strategy.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/auth/jwt/jwt-auth.guard.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/auth/jwt/jwt-auth.guard.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/auth/jwt/jwt-auth.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/auth/jwt/jwt-auth.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/auth/jwt/jwt-auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/auth/jwt/jwt-auth.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/auth/jwt/jwt-auth.strategy.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/auth/jwt/jwt-auth.strategy.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/comparisons/comparisons.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/comparisons/comparisons.controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/comparisons/comparisons.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/comparisons/comparisons.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/comparisons/comparisons.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/comparisons/comparisons.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/comparisons/comparisons.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/comparisons/comparisons.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/config/app.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/config/app.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/config/interfaces/app-config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/config/interfaces/app-config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/config/interfaces/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/config/interfaces/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/algorithm/fingerprintIndex.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/algorithm/fingerprintIndex.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/algorithm/fragment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/algorithm/fragment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/algorithm/pair.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/algorithm/pair.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/algorithm/pairedOccurrence.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/algorithm/pairedOccurrence.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/algorithm/sharedFingerprint.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/algorithm/sharedFingerprint.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/file/file.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/file/file.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/file/tokenizedFile.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/file/tokenizedFile.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/hashing/hashFilter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/hashing/hashFilter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/hashing/rollingHash.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/hashing/rollingHash.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/hashing/tokenHash.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/hashing/tokenHash.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/hashing/winnowFilter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/hashing/winnowFilter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/test/fragment.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/test/fragment.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/test/pair.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/test/pair.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/test/range.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/test/range.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/test/region.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/test/region.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/test/rollingHash.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/test/rollingHash.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/test/tokenHash.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/test/tokenHash.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/test/winnowFilter.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/test/winnowFilter.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/util/identifiable.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/util/identifiable.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/util/range.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/util/range.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/util/region.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/util/region.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/util/result.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/util/result.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/core/util/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/core/util/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/lib/dolos.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/lib/dolos.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/lib/language.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/lib/language.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/lib/options.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/lib/options.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/lib/report.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/lib/report.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/lib/tokenizer/charTokenizer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/lib/tokenizer/charTokenizer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/lib/tokenizer/codeTokenizer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/lib/tokenizer/codeTokenizer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/dolos/lib/tokenizer/tokenizer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/dolos/lib/tokenizer/tokenizer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/prisma/prisma.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/prisma/prisma.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/prisma/prisma.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/prisma/prisma.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/repositories/repositories.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/repositories/repositories.controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/repositories/repositories.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/repositories/repositories.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/repositories/repositories.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/repositories/repositories.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/repositories/repositories.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/repositories/repositories.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/shared/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/shared/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/shared/types/auth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/shared/types/auth.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/shared/types/user.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/shared/types/user.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/users/user.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/users/user.controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/users/users.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/users/users.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/users/users.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/users/users.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/users/users.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/src/users/users.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/test/app.e2e-spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../server/test/app.e2e-spec.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2hSruzC6Src0FfL8jkQoi7TczvY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/projects/tt/client/app/graph/_components",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\projects\\tt\\client\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+        <entry key="com.haulmont.rcb.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\tt\client\app\graph\_components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\tt\client\app\graph\_components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b42dd7a-b346-47a8-b1c1-02925de6a61c" name="Changes" comment="" />
+      <created>1717598568135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717598568135</updated>
+      <workItem from="1717598583353" duration="1278000" />
+      <workItem from="1718048815588" duration="3520000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
